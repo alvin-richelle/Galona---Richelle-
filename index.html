@@ -14,20 +14,26 @@
             margin: 0;
             padding: 0;
             background-color: #E3D5C8;
-            color: #DFB8B8;
-            text-align: justify;
+            color: #800000;
         }
         .container {
             max-width: 600px;
             margin: auto;
             padding: 20px;
             background: rgba(255, 255, 255, 0.9);
-            color: #000;
+            color: #800000;
             border-radius: 10px;
+            border: 4px solid #800000; /* Added border */
         }
         h1 {
             font-family: 'The Seasons', serif;
             text-align: center;
+        }
+        .intro-text {
+            text-align: center;
+        }
+        .details {
+            text-align: justify;
         }
         .photos {
             display: flex;
@@ -41,19 +47,21 @@
             height: auto;
             max-width: 600px;
             border-radius: 10px;
+            margin-bottom: 15px; /* Adds space between images */
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Galona - Llamado Nuptial</h1>
-        <p><strong>Together with our families,</strong></p>
-        <p>We, <strong>Alvin and Richelle</strong>,</p>
-        <p>cordially invite you to join us as we celebrate the sacrament of matrimony.</p>
-        <p><strong>Date:</strong> April 09, 2025</p>
-        <p><strong>Time:</strong> 10:00 AM</p>
-        <p><strong>Church:</strong> San Antonio de Padua Parish</p>
-        <p><strong>Reception:</strong> Zone 7 Maydaso, Milaor, Camarines Sur</p>
+        <p class="intro-text"><strong>Together with our families,</strong></p>
+        <p class="intro-text">We, <strong>Alvin and Richelle</strong>,</p>
+        <p class="intro-text">cordially invite you to join us as we celebrate the sacrament of matrimony.</p>
+        
+        <p class="details"><strong>Date:</strong> April 09, 2025</p>
+        <p class="details"><strong>Time:</strong> 10:00 AM</p>
+        <p class="details"><strong>Church:</strong> San Antonio de Padua Parish</p>
+        <p class="details"><strong>Reception:</strong> Zone 7 Maydaso, Milaor, Camarines Sur</p>
     </div>
     
     <div class="photos">
