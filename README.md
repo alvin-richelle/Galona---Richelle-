@@ -1,1 +1,5 @@
-![image alt](https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true)
+![image alt]([https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true](https://github.com/alvin-richelle/Galona---Richelle-/blob/83a5581803a4d4951cd4dc3ad5d37df099267ea5/photo1.png))
+![image alt]([https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true](https://github.com/alvin-richelle/Galona---Richelle-/blob/83a5581803a4d4951cd4dc3ad5d37df099267ea5/photo2.png))
+![image alt]([https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true](https://github.com/alvin-richelle/Galona---Richelle-/blob/83a5581803a4d4951cd4dc3ad5d37df099267ea5/photo3.png))
+![image alt]([https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true](https://github.com/alvin-richelle/Galona---Richelle-/blob/83a5581803a4d4951cd4dc3ad5d37df099267ea5/photo4.png))
+![image alt]([https://github.com/alvin-richelle/Galona---Richelle-/blob/main/first.png?raw=true](https://github.com/alvin-richelle/Galona---Richelle-/blob/83a5581803a4d4951cd4dc3ad5d37df099267ea5/photo5.png))
